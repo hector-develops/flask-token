@@ -6,7 +6,7 @@ try:
     credenciales = {
         "database": "stockline",
         "user": "postgres",
-        "password": "htl20219503",
+        "password": "tupassword",
         "host": "localhost",
         "port": 5432
     }
